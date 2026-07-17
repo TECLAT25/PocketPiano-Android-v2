@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PocketPiano</string>
+    <string name="connect">Buscar PocketPiano</string>
+    <string name="select_firmware">Seleccionar firmware</string>
+    <string name="start_update">Actualizar firmware</string>
+</resources>
